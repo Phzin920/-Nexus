@@ -1,0 +1,16 @@
+  🗃️ Estrutura do Banco de Dados
+O bot utiliza SQLite (arquivo nexus.db) e as seguintes tabelas:
+
+guild_config – configurações individuais de cada servidor
+
+autorole_panels – painéis de auto‑cargos
+
+verify_codes – códigos temporários de verificação
+
+timeclock e timeclock_session – registros de ponto
+
+warns – avisos emitidos
+
+modlogs – histórico de ações de moderação
+
+Todas as tabelas são criadas automaticamente na primeira execução.
