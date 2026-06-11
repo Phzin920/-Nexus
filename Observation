@@ -1,0 +1,8 @@
+
+O botão "❓ Ajuda / Comandos" no painel redireciona para um link externo (você pode alterar a URL na classe MainConfigView).
+
+O painel de verificação gera um código de 6 dígitos e um modal – o usuário deve digitar exatamente os caracteres para receber o cargo.
+
+O modo guarda modifica as permissões de todos os canais de texto – certifique‑se de que o bot tenha permissão de gerenciar canais.
+
+Comandos de moderação exigem as permissões correspondentes (expulsar membros, banir, gerenciar mensagens, etc.).
