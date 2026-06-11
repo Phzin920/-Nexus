@@ -1,0 +1,7 @@
+Todas as mensagens de boas‑vindas/despedida suportam {user} para mencionar o membro.
+
+A imagem do painel de verificação pode ser qualquer URL direta.
+
+Os cargos permitidos no bloqueador de links devem ser informados como IDs separados por vírgula.
+
+A URL do botão de ajuda pode ser alterada diretamente na view MainConfigView.
